@@ -44,7 +44,7 @@
   },
   "aliasify": {
     "aliases": {
-      "react": "react/addons",
+      "react": "react",
       "react/addons": "react/addons"
     },
     "appliesTo": {
