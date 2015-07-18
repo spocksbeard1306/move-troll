@@ -1,0 +1,9 @@
+# move-troll
+Un ejemplo pequeño de React y Flux...
+
+Escrito sobre react-init, una herramienta diseñada por wesitos
+
+Aqui la dirección...
+https://github.com/Wesitos/react-init
+
+Básicamente se trata de ua pequeña aplicación de React y Flux...
